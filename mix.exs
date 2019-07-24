@@ -31,7 +31,7 @@ defmodule Suspicidy.MixProject do
   defp description do
     """
     Suspicidy aims to detect suspicious web requests. Currently, it only supports detection by
-    request path, using a database of almost 800 paths collected from real web crawlers.
+    request path, using a data-set of almost 800 paths collected from real web crawlers.
     """
   end
 

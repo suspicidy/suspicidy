@@ -2,7 +2,7 @@
 
 Suspicidy aims to detect suspicious web requests. 
 Currently, it only supports detection by request path, 
-using a database of almost 800 paths collected from real web crawlers.
+using a data-set of almost 800 paths collected from real web crawlers.
 
 ## Installation
 
@@ -21,7 +21,7 @@ end
 
 ## Usage
 
-If you want to use the built-in database, you can just use the `Suspicidy` module.
+If you want to use the built-in data-set, you can just use the `Suspicidy` module.
 
 ```elixir
 iex(1)> Suspicidy.suspicious_path?("/")
