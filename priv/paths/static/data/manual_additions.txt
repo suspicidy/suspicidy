@@ -1,0 +1,2 @@
+# Manual additions can be made here
+/phpmyadmin
