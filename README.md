@@ -6,10 +6,7 @@ using a data-set of almost 800 paths collected from real web crawlers.
 
 ## Installation
 
-NOTE: Currently not available on Hex, stay tuned!
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `suspicidy` to your list of dependencies in `mix.exs`:
+The package can be installed by adding `suspicidy` to your list of dependencies in `mix.exs`:
 
 ```elixir
 def deps do
