@@ -10,7 +10,10 @@ defmodule Suspicidy.MixProject do
       description: description(),
       package: package(),
       deps: deps(),
-      source_url: "https://github.com/suspicidy/suspicidy"
+      source_url: "https://github.com/suspicidy/suspicidy",
+      docs: [
+        main: "Suspicidy"
+      ]
     ]
   end
 
@@ -36,6 +39,8 @@ defmodule Suspicidy.MixProject do
   end
 
   defp deps do
-    []
+    [
+      {:ex_doc, "~> 0.21", only: :dev, runtime: false}
+    ]
   end
 end

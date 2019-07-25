@@ -1,6 +1,5 @@
 defmodule SuspicidyTest do
   use ExUnit.Case
-  doctest Suspicidy
 
   describe "suspicious_path?/1" do
     test "index is not suspicious" do

@@ -1,10 +1,30 @@
 defmodule Suspicidy.Loader.Path do
-  @moduledoc false
+  @moduledoc """
+  Loads the path data from the built-in data-set.
 
+  Currently, there is only static path data collected from real web crawlers using honeypots.
+  The static path data is stored in `priv/paths/static/data/`.
+
+  Since the data comes from real crawlers, there might be false-positives.
+  That is what the `priv/paths/static/excluded.txt` file is for.
+  It contains paths that should not be treated as suspicious.
+  """
+
+  @doc """
+  Returns a list of file paths for the data-set.
+
+  The file paths are used for generating the `@external_resource` module attributes
+  to enforce recompilation if their content has changed.
+  """
+  @spec resource_files() :: list(String.t())
   def resource_files() do
     excluded_paths_files() ++ paths_files()
   end
 
+  @doc """
+  Returns a list of all suspicious static paths.
+  """
+  @spec paths() :: list(String.t())
   def paths() do
     data =
       paths_files()
