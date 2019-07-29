@@ -12,6 +12,7 @@
 /sheep.php
 /321/index.php
 /laobiao.php
+/admin/config.php
 /dexgp.php
 /jing.php
 /uploader.php
@@ -31,6 +32,7 @@
 /tomcat.php
 /sqlk.php
 /887.php
+/.env
 /phpAdmin/index.php
 /aa.php
 /error_page.htm
@@ -64,6 +66,7 @@
 /boots.php
 /mysql-admin/index.php
 /99.php
+/meijianxue
 /datas.php
 /nuoxi.php
 /tyrant.php
@@ -124,6 +127,7 @@
 /aaa.php
 /wcp.php
 /toor.php
+/cgi-bin/login.html
 /key.php
 //myadmin/scripts/setup.php
 /lala.php
@@ -280,6 +284,7 @@
 /404.php
 /4.php
 /TP/html/public/index.php
+/currentsetting.htm
 /vtigercrm/vtigerservice.php
 /paylog.php
 /h156.php
@@ -287,12 +292,14 @@
 /temtel.php
 /1213.php
 /h1.php
+/cgi-bin/nobody/Machine.cgi
 /system.php
 /qwqw.php
 /conf1g.php
 /phpmyadmin0/index.php
 /admin/phpMyAdmin/index.php
 /xx.php
+/login/login.html
 /1234.php
 /scripts/setup.php
 /phpmyadm1n/index.php
@@ -373,6 +380,7 @@
 /qwq.php
 //pma/scripts/setup.php
 /media/wp-includes/wlwmanifest.xml
+/manager/text/list
 /fb.php
 /xiaoma.php
 /099.php
@@ -445,6 +453,7 @@
 /xiaohei.php
 //MyAdmin/scripts/setup.php
 /asen.php
+/proxyjudge.php
 /789056.php
 /jj1.php
 /zz.php
@@ -452,9 +461,11 @@
 /xx33.php
 /[asDomaincom]_dump.sql
 /zuos.php
+/sitemap.xml
 /base.sql
 /luoke.php
 /news/wp-includes/wlwmanifest.xml
+/about.php
 /sz.php
 /%73%65%61%72%63%68%2e%70%68%70
 /phpMyAdmina/index.php
@@ -466,6 +477,7 @@
 /vuln1.php
 /shh.php
 /rrr.php
+/wp-content/themes/AdvanceImage5/header.php
 /plus/laobiao.php
 /iis.php
 /wp-content/plugins/portable-phpmyadmin/wp-pma-mod/index.php
@@ -483,6 +495,7 @@
 /999.php
 /s.php
 /w.php
+/current_config/passwd
 /sbkc.php
 /qqq.php
 /general.php
@@ -515,6 +528,7 @@
 /db_pma.php
 /kpl.php
 /aaaa.php
+/wp-content/plugins/ad-inserter/readme.txt
 /MyAdmin/scripts/setup.php
 /sbb/index.php
 /ppp.php
@@ -526,6 +540,7 @@
 /xiaxia.php
 /help-e.php
 /plus/dajihi.php
+/smb_scheduler/
 /phpiMyAdmin/index.php
 /phpinfi.php
 /nnn.php
@@ -541,6 +556,7 @@
 /web/phpMyAdmin/index.php
 /TP/index.php
 /default.php
+/Appdbd9459f.php
 /PMA/index.php
 /mybestloves.php
 /webslee.php
@@ -566,6 +582,7 @@
 /mysql/mysqlmanager/index.php
 /dns.php
 /a2billing/customer/templates/default/footer.tpl
+/device_description.xml
 /lala-dpr.php
 /logon.php
 /phpMyAdmin__/index.php
@@ -615,6 +632,7 @@
 /hgx.php
 /1x.php
 /Updata.php
+/winbox.png
 /zxc1.php
 /shipu.php
 /fuck.php
@@ -634,8 +652,10 @@
 /avast.php
 /desktop.ini.php
 /ganzhuolang.php
+/images/logo.gif
 /class1.php
 /guipu.php
+/cgi-bin/user/Config.cgi
 /cmv.php
 /xz.php
 /mm.php
@@ -645,6 +665,7 @@
 /function.inc.php
 /new_license.php
 /public/index.php
+/login.htm
 /tests.php
 /can.php
 /lol.php
@@ -711,6 +732,7 @@
 /zxc2.php
 /jsc.php
 /pp.php
+/HNAP1/
 /[asDomaincom]_backup.sql
 /post.php
 /xiu.php
@@ -735,8 +757,10 @@
 /inde.php
 /zshmindex.php
 /program/index.php
+/fdsrwe
 /win.php
 /scripts/db___.init.php
+/.well-known/security.txt
 /htfr.php
 /knal.php
 /phpMyAdmin.old/index.php

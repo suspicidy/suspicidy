@@ -1,3 +1,4 @@
 # excluded paths
 /
 /robots.txt
+/sitemap.xml
